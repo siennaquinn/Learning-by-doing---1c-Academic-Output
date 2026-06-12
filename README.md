@@ -1,7 +1,7 @@
 Academic Output
 
 Contents:
-- 1c.ipynb (all code, analysis)
+- 1c(1).ipynb (all code, analysis)
 - LBD.code.csv (quantified primary data)
 - LBD.responses (raw primary data)
 
